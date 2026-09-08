@@ -333,7 +333,7 @@ export default {
       "HTTP-Referer": "https://github.com/decolua/9router",
       "X-Title": "9Router",
       "X-AIMLAPI-Source": "agent/9router",
-      "X-AIMLAPI-Partner-ID": "part_9router",
+      "X-AIMLAPI-Partner-ID": "part_rqNO2KyCCsbnaxnI8nYm7K5n",
     },
   },
   models: [
