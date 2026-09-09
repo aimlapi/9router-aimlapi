@@ -333,7 +333,6 @@ export default {
       "HTTP-Referer": "https://github.com/decolua/9router",
       "X-Title": "9Router",
       "X-AIMLAPI-Source": "agent/9router",
-      "X-AIMLAPI-Partner-ID": "part_rqNO2KyCCsbnaxnI8nYm7K5n",
     },
   },
   models: [
@@ -347,6 +346,10 @@ export default {
   modelsFetcher: { url: "https://api.aimlapi.com/v1/models", type: "openai" },
 };
 ```
+
+> The partner id is issued to the integration itself, not to people running it,
+> so the snippet above deliberately omits one. Copying somebody else's id would
+> file your traffic under their integration.
 
 Notes on the shape:
 
