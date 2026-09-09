@@ -383,6 +383,8 @@ Default URLs:
 
 ### 🔑 API Key Providers (40+)
 
+1. **[aimlapi.com](https://aimlapi.com)** — OpenAI-compatible gateway, 353 chat models (GPT, Claude, Gemini, Llama, DeepSeek, Qwen, GLM) behind one key. Not currently in the provider registry — see [AIMLAPI.md](./AIMLAPI.md).
+
 <div align="center">
   <table>
     <tr>
